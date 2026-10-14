@@ -1,0 +1,8 @@
+{
+  "name": "Remix OmniChannel Pazaryeri \u0026 Mini ERP",
+  "description": "Türkiye pazaryerleri (Trendyol, Hepsiburada, N11, PttAVM, Pazarama, İdefix) ve e-ticaret (Wix, Ticimax) için çoklu mağaza destekli C# .NET 8 WPF ve Background Worker + Mini ERP yönetim paneli.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
